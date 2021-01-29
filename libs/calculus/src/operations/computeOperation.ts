@@ -4,7 +4,7 @@ const computeAddition: Computation = (leftOperand, rightOperand) =>
   leftOperand + rightOperand;
 
 const computeSubtraction: Computation = (leftOperand, rightOperand) =>
-  leftOperand + rightOperand;
+  leftOperand - rightOperand;
 
 const computeMultiplication: Computation = (leftOperand, rightOperand) =>
   leftOperand * rightOperand;
